@@ -1,6 +1,6 @@
-# AI study
-## 📕 공부하는 책 - 혼자 공부하는 머신러닝 + 딥러닝
-<img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.yes24.com%2FProduct%2FGoods%2F96024871&psig=AOvVaw2tmtkx_d1Us_ga9kkOkJNu&ust=1629567576877000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOids7eSwPICFQAAAAAdAAAAABAD" width="700">
+# ML & DL study
+### 📕 공부하는 책 - 혼자 공부하는 머신러닝 + 딥러닝
+![img](https://user-images.githubusercontent.com/63354176/130273367-b8c123a4-6b2d-427c-a562-c81ee527dbb1.jpeg)
 
 > 공부 기간
 
